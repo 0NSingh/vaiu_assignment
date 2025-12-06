@@ -9,7 +9,7 @@
 Clone the repository and install dependencies to a virtual environment:
 
 ```console
-git clone 
+git clone https://github.com/0NSingh/vaiu_assignment
 cd vaiu_assignment
 uv sync
 ```
